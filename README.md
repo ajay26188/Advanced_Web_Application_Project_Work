@@ -1,3 +1,1 @@
-# Advanced_Web_Application_Project_Work
-
-Please install vscode.pdf for viewing my documentation.
+This project is a web application built with React for the frontend and Node.js with Express for the backend. MongoDB is used to store user data and messages. It allows users to create accounts, log in, fill out onboarding information, and interact with other users through a swiping feature and a chat system.
